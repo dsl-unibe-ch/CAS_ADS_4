@@ -1,0 +1,4 @@
+venv
+*solution*
+large_text.txt
+__pycache__
