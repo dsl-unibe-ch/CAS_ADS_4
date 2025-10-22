@@ -1,2 +1,3 @@
 nltk
 pdoc
+pytest
